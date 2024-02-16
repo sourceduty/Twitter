@@ -1,8 +1,8 @@
+![Twitter X](https://github.com/sourceduty/Twitter/assets/123030236/e52fcfdf-cd81-436c-aa4e-e17593820a3c)
+
 ### Twitter and X
 
 The rebranding of Twitter to "X" on July 24th, 2023, marked a significant shift in the platform's identity. This change may have led to confusion or dissatisfaction among the existing user base, contributing to a significant loss of 32 million users. This is the first time since 2008 that a decrease was anticipated. Twitter recently reported having 528.3 million monetizable monthly active users and 237.8 million monetizable daily active users (mDAU). Elon Musk, who rebranded Twitter to "X", is the most followed individual on the platform.
-
-![Twitter X](https://github.com/sourceduty/Twitter/assets/123030236/e52fcfdf-cd81-436c-aa4e-e17593820a3c)
 
 ### Monetization
 
